@@ -1,0 +1,29 @@
+.main{
+    width: 1500px;
+    height: 400px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.h1{
+    text-align: center;
+}
+.text1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.text2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
